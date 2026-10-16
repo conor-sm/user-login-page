@@ -1,0 +1,14 @@
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/bin/Debug/net10.0/bank-acount
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/bin/Debug/net10.0/bank-acount.deps.json
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/bin/Debug/net10.0/bank-acount.runtimeconfig.json
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/bin/Debug/net10.0/bank-acount.dll
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/bin/Debug/net10.0/bank-acount.pdb
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/obj/Debug/net10.0/bank-acount.GeneratedMSBuildEditorConfig.editorconfig
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/obj/Debug/net10.0/bank-acount.AssemblyInfoInputs.cache
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/obj/Debug/net10.0/bank-acount.AssemblyInfo.cs
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/obj/Debug/net10.0/bank-acount.csproj.CoreCompileInputs.cache
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/obj/Debug/net10.0/bank-acount.dll
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/obj/Debug/net10.0/refint/bank-acount.dll
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/obj/Debug/net10.0/bank-acount.pdb
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/obj/Debug/net10.0/bank-acount.genruntimeconfig.cache
+/home/conor/Documents/School/Computer_Science/C#/bank-acount/bank-acount/obj/Debug/net10.0/ref/bank-acount.dll
